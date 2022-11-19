@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Team Muncher's About Me Home Page</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
@@ -27,23 +27,11 @@ export default function Home() {
             <p>Click here</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
-          </a>
-          <a
             href='/VinceFrazzini'
             className='card'>
             <h3>Vince Frazzini&rarr;</h3>
             <p>Click Here to see Vince's About Me</p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
           <a href='https://tailwindcss.com/' className='card'>
             <h3>Tailwind css&rarr;</h3>
             <p>Click here to learn more about tailwind css</p>
