@@ -35,10 +35,10 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='/VinceFrazzini'
             className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <h3>Vince Frazzini&rarr;</h3>
+            <p>Click Here to see Vince's About Me</p>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
