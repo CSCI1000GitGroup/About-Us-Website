@@ -11,34 +11,26 @@ export default function Home() {
       <main>
         <h1 className='title'>Team Muncher's About Me Home Page</h1>
 
-        <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
-        </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
+  
 
         <div className='grid'>
           <a href='/rayaan' className='card'>
-            <h3>Rayaan's Page &rarr;</h3>
-            <p>Click here</p>
+            <h3>Rayaan&rarr;</h3>
+            <p>Rayaan's Page</p>
           </a>
           <a
             href='/VinceFrazzini'
             className='card'>
-            <h3>Vince Frazzini&rarr;</h3>
-            <p>Click Here to see Vince's About Me</p>
+            <h3>Vince&rarr;</h3>
+            <p>Vince's Page</p>
           </a>
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
+          <a href='/Jordan' className='card'>
+            <h3>Jordan&rarr;</h3>
+            <p>Jordan's Page</p>
           </a>
           <a href='/AliHaroon' className='card'>
             <h3>Ali&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
+            <p>Ali's Page</p>
           </a>
         </div>
       </main>
