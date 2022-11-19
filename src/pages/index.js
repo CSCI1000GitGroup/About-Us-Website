@@ -49,7 +49,7 @@ export default function Home() {
             <p>Click here to learn more about tailwind css</p>
           </a>
           <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
+            <h3>Ali&rarr;</h3>
             <p>Click here to learn more about Styled Components</p>
           </a>
         </div>
